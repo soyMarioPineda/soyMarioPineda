@@ -3,10 +3,9 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="50" alt="My Name is Livio and I like Node.js" src="images/personal_note.svg" />
+  <img height="50" alt="My Name is Mario and I like programming" src="https://github.com/soyMarioPineda/soyMarioPineda/blob/main/images/personal_note.svg?raw=true" />
   <br />
   <br />
-
 </div>
 
 <!-- Social -->
@@ -14,47 +13,25 @@
 <tr>
 <td align="center">
 <a href="https://soymariopineda.github.io/blog/">
-<strong>Visit my personal website </strong>
+<strong>Visit my personal website</strong>
 <br />
 <br />
 <br />
-
 <p>
-
-<img alt="Globe" height="80" src="images/globe.gif">
+<img alt="Globe" height="80" src="https://github.com/soyMarioPineda/soyMarioPineda/blob/main/images/globe.gif?raw=true">
 </a>
 </p>
-
 </td>
-
 
 <td align="center">
 <a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
 <strong>Listen to cool music</strong>
 <br />
 <br />
-
-
 <p>
-<img height="100" alt="Music" src="images/music.gif"> 
+<img height="100" alt="Music" src="https://github.com/soyMarioPineda/soyMarioPineda/blob/main/images/music.gif?raw=true">
 </a>
 </p>
-
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<br />
-
-
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
-<!-- "margin-right: whatever;" -->
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
-
-</div>
