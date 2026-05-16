@@ -9,7 +9,7 @@
 </div>
 
 <!-- Social -->
-<table width="100%" align="center">
+<table width="140%" align="center">
 <tr>
 <td align="center">
 <a href="https://soymariopineda.github.io/blog/">
@@ -18,7 +18,7 @@
 <br />
 <br />
 <p>
-<img alt="Globe" height="80" src="https://github.com/soyMarioPineda/soyMarioPineda/blob/main/images/globe.gif?raw=true">
+<img alt="Globe" height="100" src="https://github.com/soyMarioPineda/soyMarioPineda/blob/main/images/globe.gif?raw=true">
 </a>
 </p>
 </td>
