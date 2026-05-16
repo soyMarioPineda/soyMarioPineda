@@ -17,6 +17,23 @@
   <a href="https://www.youtube.com/watch?v=H7s80FB8418">
     <img src="https://img.shields.io/badge/🎵%20Cool%20Music-FF0000?style=for-the-badge&logoColor=white" alt="Music" />
   </a>
+  &nbsp;
+  <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=10983588">
+    <img src="https://img.shields.io/badge/📄%20SSRN%20Research-1D4E8F?style=for-the-badge&logoColor=white" alt="SSRN" />
+  </a>
+</div>
+
+<br />
+
+<!-- Gifs -->
+<div align="center">
+  <a href="https://soymariopineda.github.io/blog/">
+    <img alt="Globe" height="80" src="https://github.com/soyMarioPineda/soyMarioPineda/blob/main/images/globe.gif?raw=true" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/watch?v=H7s80FB8418">
+    <img height="100" alt="Music" src="https://github.com/soyMarioPineda/soyMarioPineda/blob/main/images/music.gif?raw=true" />
+  </a>
 </div>
 
 <br />
