@@ -3,7 +3,7 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=3500&pause=998&color=0FFF24&center=true&vCenter=true&width=435&lines=Hello!+My+name+is+Mario" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=3500&pause=998&color=0FFF24&center=true&vCenter=true&width=600&lines=Hello!+My+name+is+Mario" alt="Typing SVG" /></a>
   <br />
   <br />
 </div>
@@ -69,8 +69,8 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soyMarioPineda&show_icons=true&theme=chartreuse-dark&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyMarioPineda&layout=compact&theme=chartreuse-dark&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=soyMarioPineda&show_icons=true&theme=chartreuse-dark&hide_border=true&cache_seconds=1800" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyMarioPineda&layout=compact&theme=chartreuse-dark&hide_border=true&cache_seconds=1800" height="165" alt="Top Languages" />
 </div>
 
 <br />
