@@ -29,7 +29,7 @@
 <br />
 <br />
 <p>
-<img height="100" alt="Music" src="https://github.com/soyMarioPineda/soyMarioPineda/blob/main/images/music.gif?raw=true">
+<img height="120" alt="Music" src="https://github.com/soyMarioPineda/soyMarioPineda/blob/main/images/music.gif?raw=true">
 </a>
 </p>
 </td>
