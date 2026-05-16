@@ -8,32 +8,63 @@
   <br />
 </div>
 
-<!-- Social -->
-<table width="100%" align="center">
-<tr>
-<td align="center">
-<a href="https://soymariopineda.github.io/blog/">
-<strong>Visit my personal website</strong>
-<br />
-<br />
-<br />
-<p>
-<img alt="Globe" height="80" src="https://github.com/soyMarioPineda/soyMarioPineda/blob/main/images/globe.gif?raw=true">
-</a>
-</p>
-</td>
+<!-- Botones -->
+<div align="center">
+  <a href="https://soymariopineda.github.io/blog/">
+    <img src="https://img.shields.io/badge/🌐%20My%20Blog-0FFF24?style=for-the-badge&logoColor=black" alt="Blog" />
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/watch?v=H7s80FB8418">
+    <img src="https://img.shields.io/badge/🎵%20Cool%20Music-FF0000?style=for-the-badge&logoColor=white" alt="Music" />
+  </a>
+</div>
 
-<td align="center">
-<a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
-<strong>Listen to cool music</strong>
 <br />
-<br />
-<p>
-<img height="100" alt="Music" src="https://github.com/soyMarioPineda/soyMarioPineda/blob/main/images/music.gif?raw=true">
-</a>
-</p>
-</td>
-</tr>
-</table>
 
+<!-- Sobre mí -->
+<div align="center">
+  <p>Full stack developer. Aprendo construyendo cosas y documentando el proceso.<br/>Interesado en investigación, Web3 y blockchain.</p>
+</div>
+
+<br />
+
+<!-- Badges de tecnologías -->
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+</div>
+
+<br />
+
+<!-- GitHub Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soyMarioPineda&show_icons=true&theme=chartreuse-dark&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyMarioPineda&layout=compact&theme=chartreuse-dark&hide_border=true" height="165" alt="Top Languages" />
+</div>
+
+<br />
+
+<!-- Marquee -->
+<div align="center">
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/soyMarioPineda/soyMarioPineda/blob/main/images/marquee.svg?raw=true" />
+<br />
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="No Frames" />
 </div>
