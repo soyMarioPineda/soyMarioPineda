@@ -11,7 +11,7 @@
 <!-- Botones -->
 <div align="center">
   <a href="https://soymariopineda.github.io/blog/">
-    <img src="https://img.shields.io/badge/🌐%20My%20Blog-0FFF24?style=for-the-badge&logoColor=black" alt="Blog" />
+    <img src="https://img.shields.io/badge/🌐%20My%20Blog-8B5CF6?style=for-the-badge&logoColor=white" alt="Blog" />
   </a>
   &nbsp;
   <a href="https://www.youtube.com/watch?v=H7s80FB8418">
@@ -40,7 +40,7 @@
 
 <!-- Sobre mí -->
 <div align="center">
-  <p>Full stack developer. Aprendo construyendo cosas y documentando el proceso.<br/>Interesado en investigación, Web3 y blockchain.</p>
+  <p>Full stack developer & founder of <a href="https://boonche.com">Boonche.com</a>. I learn by building things and documenting the process. Interested in research, blockchain and Web3.</p>
 </div>
 
 <br />
