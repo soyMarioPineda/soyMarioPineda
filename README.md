@@ -40,7 +40,7 @@
 
 <!-- Sobre mí -->
 <div align="center">
-  <p>Full stack developer & founder of <a href="https://boonche.com">Boonche.com</a>. I learn by building things and documenting the process. Interested in research, blockchain and Web3.</p>
+  <p>Full stack developer & founder of <a href="https://boonche.com">Boonche.com</a>. I learn by building things and documenting the process.</p>
  <p>
   <a href="mailto:marioppineda.2901@gmail.com">
     marioppineda.2901@gmail.com
