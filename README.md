@@ -52,11 +52,7 @@
 
 <br />
 
-<!-- GitHub Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soyMarioPineda&show_icons=true&theme=chartreuse-dark&hide_border=true&cache_seconds=1800" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyMarioPineda&layout=compact&theme=chartreuse-dark&hide_border=true&cache_seconds=1800" height="165" alt="Top Languages" />
-</div>
+
 
 <br />
 
